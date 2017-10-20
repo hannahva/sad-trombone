@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
+<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Sad Trombone</name>
     <description>
-        A dumb app I made for my brother to use.
+        A dumb app I made for my brother, to learn about PhoneGap.
     </description>
-    <author email="hannah.vanadrichem@gmail.com">
+    <author email="hannah.vanadrichem@gmail.com" href="http://github.com/hannahva">
         Hannah
     </author>
     <content src="index.html" />
