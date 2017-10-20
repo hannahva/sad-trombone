@@ -47,3 +47,11 @@ var app = {
         console.log('Received Event: ' + id);
     }
 };
+
+//play audio when image clicked
+function play(){
+    var audio = document.getElementById("audio");
+    audio.play();
+};
+
+
